@@ -60,13 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishakulkarni011&show_icons=true&theme=tokyonight" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 - 📧 Email: **ishakulkarnimscs@gmail.com**
 - 💼 LinkedIn: *https://www.linkedin.com/in/isha-kulkarni-549803193/*
