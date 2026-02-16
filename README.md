@@ -61,8 +61,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: **ishakulkarnimscs@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/isha-kulkarni-549803193/*
+- 📧 Email: ishakulkarnimscs@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/isha-kulkarni-549803193/
 - 🌐 Portfolio: https://ishakulkarni011.github.io
 
 ---
